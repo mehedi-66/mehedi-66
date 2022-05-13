@@ -54,5 +54,6 @@ Web technology
 	<a href="https://www.linkedin.com/in/mehedi2020hasan/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.facebook.com/mehedi2020hasan/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
 </p>
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mehedi-66&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</p>
